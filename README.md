@@ -2,7 +2,9 @@
 
 
 
-![build: passing](https://img.shields.io/badge/build-passing-success) [![license: feel free to use my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/SheykoWk) [![website](https://img.shields.io/badge/website-informational)]([[https://SheykoWk.github.io](https://portfolio-charls-castillo.netlify.app/)](https://certificates.academlo.com/en/verify/71412393450709))
+![build: passing](https://img.shields.io/badge/build-passing-success) 
+[![license: feel free to use my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/FROSTYLAN) 
+[![website](https://img.shields.io/badge/website-informational)](https://portfolio-charls-castillo.netlify.app/)
 [![GitHub FROSTYLAN](https://img.shields.io/github/followers/FROSTYLAN?label=follow&style=social)](https://github.com/FROSTYLAN)
 
 <p align="center"> <img src="https://github.com/FROSTYLAN/FROSTYLAN/blob/main/newPresentation.gif"/> </p>
@@ -59,19 +61,36 @@ I am an aspiring developer who loves to take on new projects that challenge my a
 
 ```shell
 echo "Reach out to me on any of the links above"
-echo "Do check my website https://sheykowk.github.io for more info"
+echo "Do check my website https://portfolio-charls-castillo.netlify.app/ for more info"
 ```
 
-More about work experience in my [LinkedIn](https://www.linkedin.com/in/sh3yk0/)
+More about work experience in my [LinkedIn](https://www.linkedin.com/in/charles-castillo-772968234/))
 
 
 ### Certifications 📜
 
-#### FrontEnd
+### ACADEMLO
 
-#### BackEnd
+  - [Foundations in HTML, CSS and Javascript](https://certificates.academlo.com/en/verify/82224835100448)
+  - [Front-End Development with React](https://certificates.academlo.com/en/verify/71412393450709)
+  - [Back-End Development with Node.js](https://certificates.academlo.com/en/verify/34612568058748)
 
-#### Data Science & Machine Learning
+### PLATZI
+
+  #### Programming and software development
+  
+  - [Basic Computing](https://platzi.com/p/FROSTY/curso/1741-computacion-basica-2019/diploma/detalle/)
+  - [Linux Development Environment Configuration](https://platzi.com/p/FROSTY/curso/2383-prework-linux/diploma/detalle/)
+  - [Algorithms and Logical Thinking](https://platzi.com/p/FROSTY/curso/2218-pensamiento-logico-2020/diploma/detalle/)
+  - [Basic Programming](https://platzi.com/p/FROSTY/curso/1050-programacion-basica/diploma/detalle/)
+  - [Terminal and Command Line](https://platzi.com/p/FROSTY/curso/2292-terminal/diploma/detalle/)
+  - [Git and GitHub](https://platzi.com/p/FROSTY/curso/1557-git-github/diploma/detalle/)
+  - [Managerial Technology](https://platzi.com/p/FROSTY/curso/1882-tecnologia-gerentes/diploma/detalle/)
+  - [Web: History and Operation](https://platzi.com/p/FROSTY/curso/2053-introweb/diploma/detalle/)
+  - [Design for Developers](https://platzi.com/p/FROSTY/curso/1906-diseno-programadores/diploma/detalle/)
+  - [HTML and CSS](https://platzi.com/p/FROSTY/curso/2008-html-css/diploma/detalle/)
+  - [Language and paradigms: History](https://platzi.com/p/FROSTY/curso/2211-historia-programacion/diploma/detalle/)
+  - [Introduction Test automation](https://platzi.com/p/FROSTY/curso/2620-automatizacion-pruebas/diploma/detalle/)
 
 <h2>💻 Some stats 💻</h2>
 
