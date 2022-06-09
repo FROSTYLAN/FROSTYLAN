@@ -5,7 +5,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success) [![license: feel free to use my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/SheykoWk) [![website](https://img.shields.io/badge/website-informational)]([https://SheykoWk.github.io](https://certificates.academlo.com/en/verify/71412393450709))
 [![GitHub FROSTYLAN](https://img.shields.io/github/followers/FROSTYLAN?label=follow&style=social)](https://github.com/FROSTYLAN)
 
-<center><img src="./logo.png"></center>
+![image](https://github.com/FROSTYLAN/FROSTYLAN/blob/main/presentation.gif)
 
 ```javascript
 const aboutMe = {
@@ -69,9 +69,9 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/sh3yk0/)
 
 #### FrontEnd
 
-### BackEnd
+#### BackEnd
 
-### Data Science & Machine Learning
+#### Data Science & Machine Learning
 
 <h2>💻 Some stats 💻</h2>
 
