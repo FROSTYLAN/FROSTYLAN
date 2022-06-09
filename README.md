@@ -2,7 +2,7 @@
 
 
 
-![build: passing](https://img.shields.io/badge/build-passing-success) [![license: feel free to use my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/SheykoWk) [![website](https://img.shields.io/badge/website-informational)]([https://SheykoWk.github.io](https://certificates.academlo.com/en/verify/71412393450709))
+![build: passing](https://img.shields.io/badge/build-passing-success) [![license: feel free to use my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/SheykoWk) [![website](https://img.shields.io/badge/website-informational)]([[https://SheykoWk.github.io](https://portfolio-charls-castillo.netlify.app/)](https://certificates.academlo.com/en/verify/71412393450709))
 [![GitHub FROSTYLAN](https://img.shields.io/github/followers/FROSTYLAN?label=follow&style=social)](https://github.com/FROSTYLAN)
 
 <p align="center"> <img src="https://github.com/FROSTYLAN/FROSTYLAN/blob/main/newPresentation.gif"/> </p>
@@ -51,7 +51,7 @@ I am an aspiring developer who loves to take on new projects that challenge my a
 | **Languages(programming)** | JavaScript                   | Java, SQL          | PHP, C, Python , C#            |
 | **Frameworks/Platforms**   | NodeJs, ReactJs              | Git, Redux         |                                |
 | **Languages(human)**       | Spanish                      | English            |                                |
-| **Other interests**        | Learning, Guitar             | Videogames         | Hardware, Blockchain           |
+| **Other interests**        | Learning, Guitar             | Videogames         | Blockchain                     |
 
 
 
