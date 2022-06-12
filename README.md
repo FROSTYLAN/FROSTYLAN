@@ -94,7 +94,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/charles-
 
 <h2>💻 Some stats 💻</h2>
 
-# Todoist Stats
+# TodoList Stats
 
 ### Github Stats ⭐
 
