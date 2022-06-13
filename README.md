@@ -91,6 +91,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/charles-
   - [HTML and CSS](https://platzi.com/p/FROSTY/curso/2008-html-css/diploma/detalle/)
   - [Language and paradigms: History](https://platzi.com/p/FROSTY/curso/2211-historia-programacion/diploma/detalle/)
   - [Introduction Test automation](https://platzi.com/p/FROSTY/curso/2620-automatizacion-pruebas/diploma/detalle/)
+  - [structured programming](https://platzi.com/p/FROSTY/curso/1450-programacion-estructurada/diploma/detalle/)
 
 <h2>💻 Some stats 💻</h2>
 
